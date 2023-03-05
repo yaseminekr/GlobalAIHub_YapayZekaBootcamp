@@ -25,12 +25,4 @@ Fikirlerin esinlenildiği siteler veya ürünler
 Sunum’un akıcılığı ve tutarlılığı
 Sunumun içerikleri
 
-Proje Teslimi
-
-Proje bir sunum formatında .pdf uzantısı ile GitHub’a eklenip linki bizimle paylaşılmalıdır. Projeyi paylaşmak için form linki: https://forms.gle/H4K8PGGKTMdradje6
-Projeyi GitHub’a yükleyerek bizlere linkini iletmeniz yeterlidir.
-Projeler ekip olarak veya bireysel olarak yapılacaktır. Oluşturulan ekipler maksimum 5 kişiden oluşmalıdır. Proje gruplarını oluştururken aynı Bootcamp grubunda yer almanıza gerek yoktur.
-Global AI Hub tarafından sizlere gönderilecek olan forma projenizin GitHub linkini ekleyebilirsiniz.
-Proje Teslim Tarihi: 5 Mart 2023 Saat 23:59
-
 
